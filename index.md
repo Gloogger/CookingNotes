@@ -9,7 +9,10 @@ Salvete!
 ## **Table of Contents**
 
 ### 淮扬菜
-* [**MOOC**]
+* [**大煮干丝**](dazhugansi.html)
+* [**锅包肉**](guobaorou.html)
+* [**菌王蛤蜊煲**](junwanggelibao.html)
+* [**龙井虾仁**](longjingxiaren.html)
  
 
 ### 粤菜
