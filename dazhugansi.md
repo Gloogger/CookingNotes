@@ -1,8 +1,8 @@
 ---
 layout: post
 mathjax: true
-title: 'Kapitel 2'
-description: blah blah blah blah
+title: '大煮干丝'
+description: 
 is_project_page: false
 ---
 
@@ -13,16 +13,11 @@ is_project_page: false
 <span style="float:right;"><button type="button" onclick="window.location.href='ch3.html';">Next</button></span>
 </p>
 
-## blah
-**blah**, **blah**, and **blah**r.
-
-***
-The omnipotent math shows that:
-
-$$
-1+1 = 2
-$$
-***
+```
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=" alt="Erklaerung">
+</p>
+```
 
 <p style="text-align:center;">
 <button type="button" onclick="window.location.href='#top';">Back To Top</button>
