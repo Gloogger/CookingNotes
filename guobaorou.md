@@ -26,16 +26,16 @@ is_project_page: false
 ## 糊的准备
 1. 一两面粉，一两淀粉，2g泡打粉，搅拌均匀
 2. 加入水，继续搅拌至如下粘稠度：
-<p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1NgP3F0hGBYPFRJY1PKXF9pdu-bu42Jic" alt="fig_1.jpg" width="500">
-</p>
+    <p align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1NgP3F0hGBYPFRJY1PKXF9pdu-bu42Jic" alt="fig_1.jpg" width="500">
+    </p>
 3. 加入清油8g，搅匀
 
 ## 肉上糊
 1. 将肉导入糊中，搅拌至如下图所示的混合状态：
-<p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1Llf5ABS52bCrJBqQtvx4Hvtf29_WQY80" alt="fig_2.jpg" width="500">
-</p>
+    <p align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1Llf5ABS52bCrJBqQtvx4Hvtf29_WQY80" alt="fig_2.jpg" width="500">
+    </p>
 
 ## 酱汁的制作：
 1. 锅内加入少许油，加两勺番茄酱（约20g），加入60g的水，烧开
@@ -51,9 +51,9 @@ is_project_page: false
     1. 锅内加油，加热至6-7成热（标志：快要开始冒烟了）
     2. 下肉
     3. 通炸至上色，如下图所示，然后捞出
-<p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1PfpyGIcWfqTH_ujS0nW-GBetnj_ZEQ1x" alt="fig_4.jpg" width="500">
-</p>
+        <p align="center">
+            <img src="https://drive.google.com/uc?export=view&id=1PfpyGIcWfqTH_ujS0nW-GBetnj_ZEQ1x" alt="fig_4.jpg" width="500">
+        </p>
 - 最后一步
     1. 新起一锅，倒入之前晾凉的酱汁，勾芡
     2. 加入炸好的肉
