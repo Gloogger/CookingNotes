@@ -1,0 +1,7 @@
+title: Gloogger's Homepage
+description: Online backup and index for some projects.
+show_downloads: false
+google_analytics: true
+theme: jekyll-theme-cayman
+mathjax: true
+markdown: kramdown
