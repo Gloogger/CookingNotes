@@ -36,11 +36,11 @@ is_project_page: false
 
 5. 加水煮开，此时内容物应该是如下图所示的样子：
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1a3wqP3Y4CCXqwvUF0JiEd5DuSXJzQFbZ" alt="soup_1.jpg">
+    <img src="https://drive.google.com/uc?export=view&id=1a3wqP3Y4CCXqwvUF0JiEd5DuSXJzQFbZ" alt="soup_1.jpg" width="500">
 </p>
 6. 开小火烧至乳白色：
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=" alt="soup_2.jpg">
+    <img src="https://drive.google.com/uc?export=view&id=13UEEjSGUHQDAf9MrAkPCFk7cUBt4YB_m" alt="soup_2.jpg" width="500">
 </p>
 7. 汤完成。
 
@@ -59,15 +59,16 @@ is_project_page: false
 
 材料一览
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=" alt="Erklaerung">
+    <img src="https://drive.google.com/uc?export=view&id=1Ph1XDeplL-4DYLTRdAqIlBl0yTJc7Z78" alt="raw_material.jpg" width="500">
 </p>
 
 成品
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=" alt="Erklaerung">
+    <img src="https://drive.google.com/uc?export=view&id=1EmqHfjHgQoCIu3Qhkqh-Q7gXwvgUGfeL" alt="finish_1.jpg" width="500">
 </p>
+
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=" alt="Erklaerung">
+    <img src="https://drive.google.com/uc?export=view&id=1Mqx4pWp7bI003PkzehdoUA4XWrWJpNJ-" alt="finish_2.jpg" width="500">
 </p>
 
 
