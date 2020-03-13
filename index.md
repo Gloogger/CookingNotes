@@ -36,7 +36,7 @@ Salvete!
 * [**咖喱鸡腿煲**](galijituibao.html)
 * [**雀巢白果虾球**](quechaobaiguoxiaqiu.html)
 * [**上汤时蔬**](shangtangshishu.html)
-* [**蒜蓉开边虾**]()
+* [**蒜蓉开边虾**](suanrongkaibianxia.html)
 * [**铁板黑椒花枝片**]()
 * [**西兰花炒鲜鱼**]()
 * [**西芹百合炒夏果**]()
